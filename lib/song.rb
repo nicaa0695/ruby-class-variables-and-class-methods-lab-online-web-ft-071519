@@ -8,7 +8,7 @@ class Song
   end
   @@count = 0 
   def self.count 
-    @@count
-    @@artist
+    @@count 
+    @@artists
   end
 end 
