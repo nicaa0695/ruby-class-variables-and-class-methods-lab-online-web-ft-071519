@@ -13,4 +13,6 @@ class Song
   def artists=(artist)
     @artists=artist
   end
+  def artists
+    @artist
 end 
