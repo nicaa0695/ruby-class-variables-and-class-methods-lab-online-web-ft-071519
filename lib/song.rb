@@ -9,6 +9,5 @@ class Song
   @@count = 0 
   def self.count 
     @@count 
-    @@artists
   end
 end 
