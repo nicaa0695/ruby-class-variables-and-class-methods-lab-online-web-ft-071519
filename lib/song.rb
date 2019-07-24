@@ -10,11 +10,6 @@ class Song
   def self.count 
     @@count 
   end
-  @@artists= 0 
-  def self.artists
-    @@artists
-  end
-  def artists
-    @artist
-  end
+  def self.all 
+    @@songs
 end 
