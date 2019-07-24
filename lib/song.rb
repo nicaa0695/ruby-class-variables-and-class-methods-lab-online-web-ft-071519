@@ -15,4 +15,5 @@ class Song
   end
   def artists
     @artist
+  end
 end 
